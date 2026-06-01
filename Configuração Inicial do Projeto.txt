@@ -1,6 +1,10 @@
 Configuração Inicial do Projeto
 Adicionei a Model
 Adicionei a Controller
+<<<<<<< HEAD
 Criei um conflito
 tentando conflito
 nova tentativa
+=======
+adicionei a service
+>>>>>>> 7fbf679a05137c9ad2cebdada3a817830ef31686
