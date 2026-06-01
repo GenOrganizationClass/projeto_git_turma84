@@ -6,3 +6,4 @@ Criei um conflito
 tentando conflito
 nova tentativa
 teste 2
+teste 3
